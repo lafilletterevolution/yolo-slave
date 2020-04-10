@@ -1,6 +1,6 @@
 # yolo-slave
 
-This is my first Github commit. Based on my recent lessons with Jeff Heaton on Deep Learning, I attempted to extend the power of Yolov3 from detecting pre-defined objects from still images / videos, to computer desktop display. This tool is more versatile as users can pull up different items on screen, browser various webpages, and see the object detection acting in live environment. My work is inspired from https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_06_5_yolo.ipynb.
+This is my first Github commit. Based on my recent lessons with Jeff Heaton on Deep Learning, I attempted to extend the power of Yolov3 from detecting pre-defined objects from still images / videos, to computer desktop display. This tool is more versatile as users can pull up different items on screen, browser various webpages, and see the object detection acting in live environment. My work is inspired and revised from https://github.com/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_06_5_yolo.ipynb.
 
 I have to note that at my workstation setup, I have my laptop and x2 slave screens. Therefore it is easy enough for me to open up various items on one screen, while another pop-up window displays on a second screen where Yolov3 object detection takes place.
 
