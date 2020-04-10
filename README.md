@@ -8,7 +8,7 @@ It is only the first attempt of extending Yolov3's application, and the main int
 
 Major drawback so far is the serious display lag as it is a fairly basic Yolo extension, guess it will be better with higher CPU PC. Regardless it is still fun enough to put this tool into practice. Next step I envision is to train customized objects (e.g. by transfer learning) so Yolo is able to pick up additional customized items other than the pre-defined ones.
 
-Feel free to reach out and let me know what you think. I have also linked this repository to my Medium blog https://medium.com/@lafilletterevolution, as I believe sharing of experience is vital to keep the ML community vibrant.
+Feel free to comment and let me know what you think. I have also linked this repository to my Medium blog https://medium.com/@lafilletterevolution, as I believe sharing of experience is vital to keep the ML community vibrant.
 
 Feel free to fork and enjoy! :)
 
