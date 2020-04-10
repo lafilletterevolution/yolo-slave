@@ -14,7 +14,7 @@ I have to note that at my workstation setup, I have my laptop and x2 slave scree
 ![ODS stickers](https://github.com/lafilletterevolution/yolo-slave/blob/master/google.png)
 
 
-It is only the first attempt of extending Yolov3's application, and the main intention comes from my workplace inspiration that when I need to explain an idea to my audience, it will help elaborate much easier with the use of Yolo's object detection functionality, as Yolo essentially supplement my presentation with on-screen object detection.
+It is only the first attempt of extending Yolov3's application, and the main intention comes from my workplace inspiration that when I need to explain an idea to my audience, it will help elaborate much easier with the use of Yolo's object detection functionality, as Yolo essentially supplement my presentation with on-screen annotations.
 
 Major drawback so far is the serious display lag, guess it will be better with higher CPU PC. Regardless, it is still fun enough to put this tool into practice. Next step I envision is to train customized objects (e.g. by transfer learning) so that Yolo is able to pick up additional customized items other than the pre-defined ones.
 
